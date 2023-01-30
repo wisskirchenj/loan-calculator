@@ -6,7 +6,7 @@ project is to further practice and stay in touch with Python programming.
 ## Technology / External Libraries
 
 - Python 3.11.1,
-- with packages: unittest
+- with packages: math, io, unittest, unittest.mock
 
 ## Repository Contents
 
@@ -35,3 +35,6 @@ Have fun!
 29.01.23 Project started - gitHub repo and project structure setup.
 
 30.01.23 Stage 1 completed - example print out.
+
+30.01.23 Stage 2 completed - get loan input and calc parameters as rates or duration. Override `__eq__` for test
+assertions
