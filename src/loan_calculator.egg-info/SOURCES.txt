@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/creditcalc/__init__.py
+src/creditcalc/main.py
+src/loan_calculator.egg-info/PKG-INFO
+src/loan_calculator.egg-info/SOURCES.txt
+src/loan_calculator.egg-info/dependency_links.txt
+src/loan_calculator.egg-info/top_level.txt

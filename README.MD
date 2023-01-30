@@ -33,3 +33,5 @@ Have fun!
 ## Progress
 
 29.01.23 Project started - gitHub repo and project structure setup.
+
+30.01.23 Stage 1 completed - example print out.
