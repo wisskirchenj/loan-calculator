@@ -3,8 +3,17 @@ README.md
 setup.cfg
 setup.py
 src/creditcalc/__init__.py
+src/creditcalc/loan.py
 src/creditcalc/main.py
+src/creditcalc/__pycache__/__init__.cpython-311.pyc
+src/creditcalc/__pycache__/loan.cpython-311.pyc
+src/creditcalc/__pycache__/main.cpython-311.pyc
+src/creditcalc/__pycache__/test_loan.cpython-311-pytest-7.2.1.pyc
 src/loan_calculator.egg-info/PKG-INFO
 src/loan_calculator.egg-info/SOURCES.txt
 src/loan_calculator.egg-info/dependency_links.txt
 src/loan_calculator.egg-info/top_level.txt
+test/test_loan.py
+test/test_main.py
+test/__pycache__/test_loan.cpython-311-pytest-7.2.1.pyc
+test/__pycache__/test_main.cpython-311-pytest-7.2.1.pyc

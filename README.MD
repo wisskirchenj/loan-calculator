@@ -38,3 +38,6 @@ Have fun!
 
 30.01.23 Stage 2 completed - get loan input and calc parameters as rates or duration. Override `__eq__` for test
 assertions
+
+31.01.23 Stage 3 completed - annuity payment based loan calculator with monthly interest rate. Diverse calculations 
+are possible
