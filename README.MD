@@ -6,7 +6,7 @@ project is to further practice and stay in touch with Python programming.
 ## Technology / External Libraries
 
 - Python 3.11.1,
-- with packages: math, io, unittest, unittest.mock
+- with packages: argparse, math, io, unittest, unittest.mock
 
 ## Repository Contents
 
@@ -16,7 +16,7 @@ The sources of main project tasks (4 stages) and pytest testing.
 
 Install the wheel file using pip after clone/fork:
 
-> $ pip install dist/loan_calculator-3.11.1-py3-none-any.whl
+    > pip install dist/loan_calculator-3.11.1-py3-none-any.whl
 
 ## Program description
 
@@ -28,7 +28,7 @@ Have fun!
 
 ## Project completion
 
-[//]: # (Project was completed on 08.01.23)
+Project was completed on 02.02.23
 
 ## Progress
 
@@ -39,5 +39,9 @@ Have fun!
 30.01.23 Stage 2 completed - get loan input and calc parameters as rates or duration. Override `__eq__` for test
 assertions
 
-31.01.23 Stage 3 completed - annuity payment based loan calculator with monthly interest rate. Diverse calculations 
+31.01.23 Stage 3 completed - annuity payment based loan calculator with monthly interest rate. Diverse calculations
 are possible
+
+31.01.23 Final stage 4 completed - calculator now based on argparse of CL-arguments. Besides annuity loans now
+differentiated loans are supported, where there is a fixed repayment amount for each monthly payment, thus reducing the
+total monthly payments with progressing time. Also overpayments are calculated to compare different loan types.
