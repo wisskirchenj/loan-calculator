@@ -9,12 +9,12 @@ class Loan:
         self.monthly_payment = payment
         self.payback_duration = periods
         self.monthly_interest_rate = interest / 100 / 12
-        self.diff_payments = []
+        self.diff_payments: list[int] = []
         self.mode = self.get_mode()
         self.calc_missing()
 
     def __eq__(self, other):
-        return (type(other) == Loan
+        return (other is Loan
                 and self.type == other.type
                 and self.principal == other.principal
                 and self.monthly_payment == other.monthly_payment

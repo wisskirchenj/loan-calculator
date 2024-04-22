@@ -5,7 +5,7 @@ project is to further practice and stay in touch with Python programming.
 
 ## Technology / External Libraries
 
-- Python 3.11.2,
+- Python 3.12.3,
 - with packages: argparse, math, io, unittest, unittest.mock
 
 ## Repository Contents
@@ -16,7 +16,7 @@ The sources of main project tasks (4 stages) and pytest testing.
 
 Install the wheel file using pip after clone/fork:
 
-    > pip install dist/loan_calculator-3.11.2-py3-none-any.whl
+    > pip install dist/loan_calculator-3.12.3-py3-none-any.whl
 
 ## Program description
 

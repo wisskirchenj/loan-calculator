@@ -1,2 +1,2 @@
-
+pytest
 setuptools>=67.0.0

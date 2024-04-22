@@ -2,11 +2,14 @@ MANIFEST.in
 README.md
 setup.cfg
 setup.py
+src/.DS_Store
 src/creditcalc/__init__.py
 src/creditcalc/loan.py
 src/creditcalc/main.py
 src/creditcalc/__pycache__/__init__.cpython-311.pyc
+src/creditcalc/__pycache__/__init__.cpython-312.pyc
 src/creditcalc/__pycache__/loan.cpython-311.pyc
+src/creditcalc/__pycache__/loan.cpython-312.pyc
 src/creditcalc/__pycache__/main.cpython-311.pyc
 src/creditcalc/__pycache__/test_loan.cpython-311-pytest-7.2.1.pyc
 src/loan_calculator.egg-info/PKG-INFO

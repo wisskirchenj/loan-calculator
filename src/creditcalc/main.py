@@ -4,7 +4,7 @@ from argparse import ArgumentParser
 from creditcalc.loan import Loan
 
 
-def get_duration_info(loan):
+def get_duration_info(loan: Loan):
     def pluralized_or_empty(unit: str, amount: int) -> str:
         if amount == 0:
             return ''
